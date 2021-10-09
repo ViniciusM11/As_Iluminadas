@@ -1,2 +1,2 @@
 # As_Iluminadas
-Repositório para o TCC - Ateliê As Iluminadas - Site e App de Vendas
+Repositório para o PTCC - Ateliê As Iluminadas - Site de Vendas
